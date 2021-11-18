@@ -1,0 +1,6 @@
+Python 3.7+
+beautifulsoup4>=4.9.3
+Flask 2.0.x
+flaskalchemy 2.x
+requests
+transformers 4.12.x
